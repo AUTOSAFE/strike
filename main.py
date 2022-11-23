@@ -4,7 +4,7 @@ def main():
 	global auth, maxerr, api, pos, dely
 	os.system('cls' if os.name == 'nt' else 'clear')
 	print(f"\t   Simple Crown/Trophy Duplicators for Stumble Guys")
-	print(f"\t\t\tBy: KING")
+	print(f"\t\t\tBy: Lana RPL")
 	print("="*64)
 	maxerr = 0 # Avoid Ban when User AFK.
 	api = "kitkabackend.eastus.cloudapp.azure.com:5010"
